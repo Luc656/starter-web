@@ -15,3 +15,9 @@ learning tutorial to strengthen git knowledge
 simple web project, deployment can be on any web server or even local file system
 
 ## how to contribute
+
+ add some cool stuff with github fork
+
+## copyright
+
+Luc's copyright 2022
