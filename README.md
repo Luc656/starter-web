@@ -16,7 +16,7 @@ simple web project, deployment can be on any web server or even local file syste
 
 ## how to contribute
 
- add some cool stuff with github fork
+ add some cool stuff with github fork then issue pull request
 
 ## copyright
 
